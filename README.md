@@ -1,0 +1,1 @@
+# Spectral-Regression-Modeling-for-Cadmium-Estimation-in-Leaf-Tissue-Using-PLSR-and-PCA
